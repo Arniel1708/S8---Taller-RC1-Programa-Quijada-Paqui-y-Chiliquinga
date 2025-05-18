@@ -1,2 +1,12 @@
+# Archivos y carpetas de VS Code y Visual Studio
+.vscode/
+.vs/
 *.exe
-.vscode
+*.dll
+*.obj
+*.user
+*.suo
+*.cache
+*.pdb
+bin/
+obj/
